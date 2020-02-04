@@ -12,7 +12,7 @@ var carro = {
 
 //exemplos de como acessar os valores das variaveis
 console.log(nome); // mostra a variavel nome
-console.log(idade); //  moostra a variavel idade
+console.log(idade); //  mostra a variavel idade
 console.log(humano); // mostra o valor booleano da variavel humano
 console.log(lista); // mostra os valores do array
 console.log(lista[0]); // mostra um valor especifico do array
